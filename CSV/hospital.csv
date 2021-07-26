@@ -1,0 +1,172 @@
+id,num,name
+1,"111070010      ","Keelung Hospital, Ministry of Health and Welfare"
+2,"1411030013     ",Taiwan Miner's General Hospital
+3,"511040010      ",Tri-Service General Hospital Keelung Branch - Zhengrong Branch
+4,"101090517      ",Taipei City Hospital Heping Branch
+5,"101090517      ",Taipei City Hospital Zhongxing Branch
+6,"101090517      ",Taipei City Hospital Yangming Branch
+7,"101090517      ",Taipei City Hospital Zhongxiao Branch
+8,"1101010021     ",Taiwan Adventist Hospital
+9,"501010019      ",Tri-Service General Hospital Songshan Branch
+10,"1101010012     ",Taipei Chang Gung Memorial Hospital
+11,"1101110026     ",Kang-Ning General Hospital
+12,"901190010      ",West Garden Hospital
+13,"1501010010     ",Pojen General Hospital
+14,"1231030015     ",Cardinal Tien Hospital An Kang Branch
+15,"1331160010     ",Fu Jen Catholic University Hospital
+16,"1131110516     ",Cathay General Hospital Sijhih Branch
+17,"131060029      ","Taipei Hospital, Ministry of Health and Welfare"
+18,"1131090019     ",En Chu Kong Hospital
+19,"131020016      ","New Taipei City Hospital, New Taipei City Government (Sanchong Branch)"
+20,"131020016      ","New Taipei City Hospital, New Taipei City Government (Banqiao Branch)"
+21,"431270012      ",National Taiwan University Hospital Jinshan Branch
+22,"1531060180     ",Hsin-Tai General Hospital
+23,"1531071030     ",Ren Ai Hospital
+24,"1531120038     ",Rueifang Miner Hospital
+25,"1231050017     ",Cardinal Tien Hospital An Kang Branch
+26,"1131130018     ","New Taipei City Tucheng Hospital "
+27,"1134010022     ",Yilan Jen-Ai Hospital
+28,"434010518      ",National Yang-Ming University Hospital
+29,"634070018      ",Taipei Veterans General Hospital Yuanshan Branch
+30,"1134020028     ",Saint Mary's Hospital Luodong
+31,"634030014      ",Taipei Veterans General Hospital Su-Ao Branch
+32,"1134050026     ",Camillian Hsing-Ho Hospital Chiao Hsi
+33,"1134020019     ","Lotung Pohai Hospital, Lo-Hsu Medical Foundation"
+34,"190030516      ","Kinmen Hospital, Ministry of Health and Welfare"
+35,"131060010      ","Lo-Sheng Sanatorium and Hospital, Ministry of Health and Welfare"
+36,"132110519      ","Xinwu Branch, Taoyuan Hospital, Ministry of Health and Welfare"
+37,"532090029      ",Taoyuan Armed Forces General Hospital
+38,"632010014      ","Taipei Veterans General Hospital, Taoyuan Branch"
+39,"1532011154     ",Min-Sheng General Hospital
+40,"1132010024     ",Saint Paul's Hospital
+41,"1532040066     ",Yee Zen General Hospita
+42,"1532040039     ",Ten Chen General Hospital
+43,"1532100049     ",Landseed International Hospital
+44,"932020025      ",Ten-Chen General Hospital
+45,"512040014      ",Hsin Chu Armed Force Hospital
+46,"1112010528     ",Hsinchu Cathay General Hospital
+47,"1512011185     ",Nan Men General Hospital
+48,"433030016      ",National Taiwan University Hospital Hsinchu Biomedical Park Hosputal Zhudong Branch
+49,"633030010      ",Taipei Veterans General Hospital Hsinchu Branch
+50,"1333050017     ",China Medical University Hsinchu Hospital
+51,"433050018      ",National Taiwan University Hospital Hsinchu Biomedical Park Hosputal Zhubei Branch
+52,"1133060019     ","Catholic Mercy Hospital, Catholic Mercy Medical Foundation"
+53,"1533051063     ",Da An Hospital
+54,"135010016      ","Miaoli General Hospital, Ministry of Health and Welfare"
+55,"1135050020     ",Wei Gong Memorial Hospital
+56,"935020027      ",Lee General Hospital
+57,"1535081078     ",Da Shuen Hospital
+58,"1535051178     ",Chong Guang Hospital
+59,"1535010024     ",Sheiho Hosipital
+60,"1535031041     ",Tong Siao Kuang Tien Hospital
+61,"935010012      ",Hope Doctors Hospital
+62,"936030018      ",Daja Lee General Hospital
+63,"1136200015     ",Jen-ai Hospital Dali Branch
+64,"1517011112     ",Cheng Ching General Hospital
+65,"536190011      ",Taichung Armed Forces General Hospital
+66,"117030010      ","Taichung Hospital,Ministry of Health and Welfare"
+67,"917070029      ",Lin Shin Hospital
+68,"903150014      ",Wuri Lin Shin Hospital
+69,"1136090519     ",Taichung Tzu Chi Hosptial
+70,"136010010      ","Feng-Yuan Hospital, Ministry Of Health And Welfare"
+71,"1303180011     ",Asia University Hospital
+72,"517050010      ",Taichung Armed Forces General Hospital Zhongqing Branch
+73,"1536100081     ",Ching-chyuan Hospital
+74,"638020014      ",Taichung Veterans General Hospital Puli Branch
+75,"938030016      ",Yumin Hospital
+76,"1138010019     ",Nantou Christian Hospital
+77,"1138020015     ",Puli Christian Hospital
+78,"1538041101     ",Chu Shang Show Chwan Hospital
+79,"1137080017     ",Erlin Christian Hospital
+80,"1137050019     ",Yuanlin Christian Hospital
+81,"137170515      ","Changhua Hospital,Ministry of Health and Welfare"
+82,"1137020520     ",Lukang Christian Hopsital
+83,"1537040066     ",Cho Hospital
+84,"937030012      ",Farlin Hospital
+85,"1537051292     ",Yuan Sheng Hospital
+86,"937050024      ",Huilai Medical Care System Hongren Hospital
+87,"439010527      ",National Cheng Kung University Hospital Dou-Liou Branch
+88,"1339060017     ",China Medical University Beigang Hospital
+89,"1139040011     ",Yunlin Christian Hospital
+90,"1139030015     ",St. Joseph's Hospital
+91,"1139130010     ",Yunlin Chang Gung Memorial Hospital
+92,"439010518      ",National Taiwan University Hosipital Yunlin Branch. Hu-Wei Region
+93,"622020017      ",Taichung Veterans General Hospital Chiayi Branch
+94,"1122010021     ",St. Martin De Porres Hospital Da-Ya Branch
+95,"122020517      ","Chia-Yi Hospital, Ministry of Health and Welfare"
+96,"140010028      ","Puzi Hospital, Ministry of Health and Welfare"
+97,"640140012      ",Taichung Veterans General Hospital Wanqiao Branch
+98,"121050011      ","Tainan Hospital, Ministry of Health and Welfare"
+99,"1141090512     ",Liuying Chi Mei Medical Center
+100,"1121010018     ",Tainan Sin-Lau Hospital
+101,"1105040016     ",Madou Sin-Lau Hospital
+102,"1105050012     ",Jiali Chi Mei Medical Center
+103,"141270019      ","Chest Hospital, Ministry of Health and Welfare"
+104,"1521031104     ",Kuo General Hospital
+105,"1305370013     ",An Nan Hospital
+106,"905320023      ",Tainan Municipal Hospital
+107,"141010013      ","Sinying Hospital, Ministry of Health and Welfare"
+108,"141060513      ","Tainan Hospital Xinhua Branch, Ministry of Health and Welfare"
+109,"641310018      ",Kaohsiung Veterans General Hospital Tainan Branch
+110,"1102110011     ",Kaohsiung Municipal Siaogang Hospital
+111,"502030015      ",Kaohsiung Armed Forces General Hospital Zuoying Branch
+112,"902080013      ",Yuan's General Hospita
+113,"102080017      ",Kaohsiung Municipal Min-Sheng Hospita
+114,"502080015      ",Kaohsiung Armed Forces General Hospital
+115,"1502040021     ",Jiannren Hospital
+116,"102020011      ",Kaohsiung Municipal United Hospital
+117,"142030019      ","Cishan Hospital, Ministry of Health and Welfare"
+118,"102070020      ",Kaohsiung Municipal Da-Tung Hospital
+119,"1542010052     ",Da-Dong Hospital
+120,"1542050056     ",Chien-Yu Hospital
+121,"1107350015     ",St. Joseph Hospital
+122,"942020019      ",Kaohsiung Municipal Gangshan Hospital
+123,"1142010518     ",Kaohsiung Municipal Feng-Shan Hospital
+124,"542020011      ",Kaohsiung Armed Forces General Hospital Gangshan Branch
+125,"1107120017     ",E-DA cancer Hospital
+126,"1307370011     ",Kaohsiung Municipal CiJin Hospital
+127,"1542011282     ",Shing-Hou Hospital
+128,"1107320017     ",E-DA Dachang Hospital
+129,"1502110064     ",Antai Communtiy Hosptial
+130,"643130018      ",Kaohsiung Veterans General Hospital Pingtung Branch
+131,"143010011      ","Pingtung Hospital, Ministry of Health and Welfare"
+132,"1343030018     ",Fooyin University Hospital
+133,"943160012      ",Fangliao General Hospital
+134,"1143010012     ",Pingtung Christian Hospital
+135,"1543010109     ",Golden Hospital
+136,"543010019      ",Kaohsiung Armed Forces General Hospital Pingtung Branch
+137,"943010017      ",Paochien Hospital
+138,"1143040010     ",Heng Chun Christian Hospital
+139,"143040019      ","Hengchun Tourism Hospital, Ministry of Health and Welfare"
+140,"1543110033     ",Daxin Hospital
+141,"943020013      ",Antai Medical Care Cooperation Chaozhou Antai Hospital
+142,"943040015      ",Nan Men Hospital
+143,"2344060011     ",Qimei Township Health Center
+144,"2344030031     ",Jibei Health Center
+145,"2344030022     ",Niaoyu Health Center
+146,"144010015      ","Penghu Hospital, Ministry of Health and Welfare"
+147,"2344050024     ",Jiangjun Health Center
+148,"2344050015     ",Huayu Health Room
+149,"2344050015     ",Wangan Township Health Center
+150,"645020015      ",Taipei Veterans General Hospital Fenglin Branch
+151,"145080011      ","Hualien Hospital Fengbin Aboriginal Branch, Ministry of Health and Welfare"
+152,"545040515      ",Hualien Armed Forces General Hospital
+153,"1145010038     ",Mennonite Christian Hospital
+154,"645030011      ",Taipei Veterans General Hospital Yuli Branch
+155,"145010019      ","Hualien Hospital, Ministry of Health and Welfare"
+156,"1145030012     ","Buddhist Tzu Chi Medical Foundation Yuli Tzu Chi Hospital "
+157,"146020537      ","Taitung Hospital Chenggong Branch, Ministry of Health and Welfare"
+158,"646010013      ",Taipei Veterans General Hospital Taitung Branch
+159,"1146030516     ",Buddhist Tzu Chi Medical Foundation Kuanshan Tzu Chi Hospital
+160,"1146010032     ","Taitung Christian Medical Foundation, Taitung Christian Hospital"
+161,"146010013      ","Taitung Hospital, Ministry of Health and Welfare"
+162,"1146010041     ",Catholic Hualien Diocese Medical Foundation Taitung St. Mary' s Hospital
+163,"291010010      ",Lienchiang County Hospital
+164,"2391020010     ",Bei-Gan Health Center
+165,"2391040012     ",Dong-In Health Center
+166,"2391030016     ",Hsichu Health Center
+167,"2391030026     ",Juguang Health Center
+168,"141270019      ","Chest hospital Datong Branch, Health and Welfare Ministry"
+169,"2346110014     ",Ludao Township Health Center
+170,"2346160014     ",Lanyu Township Health Center
+171,"190030516      ","Kinmen Hospital Lieyu Branch, Ministry of Health and Welfare"

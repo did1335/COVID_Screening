@@ -1,0 +1,343 @@
+patient,city,hospital
+Ed,Keelung City,"Keelung Hospital, Ministry of Health and Welfare"
+Camille,Keelung City,"Keelung Hospital, Ministry of Health and Welfare"
+Ed,Keelung City,Taiwan Miner's General Hospital
+Camille,Keelung City,Taiwan Miner's General Hospital
+Ed,Keelung City,Tri-Service General Hospital Keelung Branch - Zhengrong Branch
+Camille,Keelung City,Tri-Service General Hospital Keelung Branch - Zhengrong Branch
+Bob,Taipei City,Taipei City Hospital Heping Branch
+Bella,Taipei City,Taipei City Hospital Heping Branch
+Bob,Taipei City,Taipei City Hospital Zhongxing Branch
+Bella,Taipei City,Taipei City Hospital Zhongxing Branch
+Bob,Taipei City,Taipei City Hospital Yangming Branch
+Bella,Taipei City,Taipei City Hospital Yangming Branch
+Bob,Taipei City,Taipei City Hospital Zhongxiao Branch
+Bella,Taipei City,Taipei City Hospital Zhongxiao Branch
+Bob,Taipei City,Taiwan Adventist Hospital
+Bella,Taipei City,Taiwan Adventist Hospital
+Bob,Taipei City,Tri-Service General Hospital Songshan Branch
+Bella,Taipei City,Tri-Service General Hospital Songshan Branch
+Bob,Taipei City,Taipei Chang Gung Memorial Hospital
+Bella,Taipei City,Taipei Chang Gung Memorial Hospital
+Bob,Taipei City,Kang-Ning General Hospital
+Bella,Taipei City,Kang-Ning General Hospital
+Bob,Taipei City,West Garden Hospital
+Bella,Taipei City,West Garden Hospital
+Bob,Taipei City,Pojen General Hospital
+Bella,Taipei City,Pojen General Hospital
+Gordon,New Taipei City,Cardinal Tien Hospital An Kang Branch
+Fanny,New Taipei City,Cardinal Tien Hospital An Kang Branch
+Gordon,New Taipei City,Fu Jen Catholic University Hospital
+Fanny,New Taipei City,Fu Jen Catholic University Hospital
+Gordon,New Taipei City,Cathay General Hospital Sijhih Branch
+Fanny,New Taipei City,Cathay General Hospital Sijhih Branch
+Gordon,New Taipei City,"Taipei Hospital, Ministry of Health and Welfare"
+Fanny,New Taipei City,"Taipei Hospital, Ministry of Health and Welfare"
+Gordon,New Taipei City,En Chu Kong Hospital
+Fanny,New Taipei City,En Chu Kong Hospital
+Gordon,New Taipei City,"New Taipei City Hospital, New Taipei City Government (Sanchong Branch)"
+Fanny,New Taipei City,"New Taipei City Hospital, New Taipei City Government (Sanchong Branch)"
+Gordon,New Taipei City,"New Taipei City Hospital, New Taipei City Government (Banqiao Branch)"
+Fanny,New Taipei City,"New Taipei City Hospital, New Taipei City Government (Banqiao Branch)"
+Gordon,New Taipei City,National Taiwan University Hospital Jinshan Branch
+Fanny,New Taipei City,National Taiwan University Hospital Jinshan Branch
+Gordon,New Taipei City,Hsin-Tai General Hospital
+Fanny,New Taipei City,Hsin-Tai General Hospital
+Gordon,New Taipei City,Ren Ai Hospital
+Fanny,New Taipei City,Ren Ai Hospital
+Gordon,New Taipei City,Rueifang Miner Hospital
+Fanny,New Taipei City,Rueifang Miner Hospital
+Gordon,New Taipei City,Cardinal Tien Hospital An Kang Branch
+Fanny,New Taipei City,Cardinal Tien Hospital An Kang Branch
+Gordon,New Taipei City,"New Taipei City Tucheng Hospital "
+Fanny,New Taipei City,"New Taipei City Tucheng Hospital "
+Felix,Yilan County,Yilan Jen-Ai Hospital
+Gina,Yilan County,Yilan Jen-Ai Hospital
+Felix,Yilan County,National Yang-Ming University Hospital
+Gina,Yilan County,National Yang-Ming University Hospital
+Felix,Yilan County,Taipei Veterans General Hospital Yuanshan Branch
+Gina,Yilan County,Taipei Veterans General Hospital Yuanshan Branch
+Felix,Yilan County,Saint Mary's Hospital Luodong
+Gina,Yilan County,Saint Mary's Hospital Luodong
+Felix,Yilan County,Taipei Veterans General Hospital Su-Ao Branch
+Gina,Yilan County,Taipei Veterans General Hospital Su-Ao Branch
+Felix,Yilan County,Camillian Hsing-Ho Hospital Chiao Hsi
+Gina,Yilan County,Camillian Hsing-Ho Hospital Chiao Hsi
+Felix,Yilan County,"Lotung Pohai Hospital, Lo-Hsu Medical Foundation"
+Gina,Yilan County,"Lotung Pohai Hospital, Lo-Hsu Medical Foundation"
+Wayne,Kinmen County,"Kinmen Hospital, Ministry of Health and Welfare"
+Wendy,Kinmen County,"Kinmen Hospital, Ministry of Health and Welfare"
+Gordon,New Taipei City,"Lo-Sheng Sanatorium and Hospital, Ministry of Health and Welfare"
+Fanny,New Taipei City,"Lo-Sheng Sanatorium and Hospital, Ministry of Health and Welfare"
+Henry,Taoyuan City,"Xinwu Branch, Taoyuan Hospital, Ministry of Health and Welfare"
+Helen,Taoyuan City,"Xinwu Branch, Taoyuan Hospital, Ministry of Health and Welfare"
+Henry,Taoyuan City,Taoyuan Armed Forces General Hospital
+Helen,Taoyuan City,Taoyuan Armed Forces General Hospital
+Henry,Taoyuan City,"Taipei Veterans General Hospital, Taoyuan Branch"
+Helen,Taoyuan City,"Taipei Veterans General Hospital, Taoyuan Branch"
+Henry,Taoyuan City,Min-Sheng General Hospital
+Helen,Taoyuan City,Min-Sheng General Hospital
+Henry,Taoyuan City,Saint Paul's Hospital
+Helen,Taoyuan City,Saint Paul's Hospital
+Henry,Taoyuan City,Yee Zen General Hospita
+Helen,Taoyuan City,Yee Zen General Hospita
+Henry,Taoyuan City,Ten Chen General Hospital
+Helen,Taoyuan City,Ten Chen General Hospital
+Henry,Taoyuan City,Landseed International Hospital
+Helen,Taoyuan City,Landseed International Hospital
+Henry,Taoyuan City,Ten-Chen General Hospital
+Helen,Taoyuan City,Ten-Chen General Hospital
+Oscar,Hsinchu City,Hsin Chu Armed Force Hospital
+Olivia,Hsinchu City,Hsin Chu Armed Force Hospital
+Oscar,Hsinchu City,Hsinchu Cathay General Hospital
+Olivia,Hsinchu City,Hsinchu Cathay General Hospital
+Oscar,Hsinchu City,Nan Men General Hospital
+Olivia,Hsinchu City,Nan Men General Hospital
+James,Hsinchu County,National Taiwan University Hospital Hsinchu Biomedical Park Hosputal Zhudong Branch
+Jenny,Hsinchu County,National Taiwan University Hospital Hsinchu Biomedical Park Hosputal Zhudong Branch
+James,Hsinchu County,Taipei Veterans General Hospital Hsinchu Branch
+Jenny,Hsinchu County,Taipei Veterans General Hospital Hsinchu Branch
+James,Hsinchu County,China Medical University Hsinchu Hospital
+Jenny,Hsinchu County,China Medical University Hsinchu Hospital
+James,Hsinchu County,National Taiwan University Hospital Hsinchu Biomedical Park Hosputal Zhubei Branch
+Jenny,Hsinchu County,National Taiwan University Hospital Hsinchu Biomedical Park Hosputal Zhubei Branch
+James,Hsinchu County,"Catholic Mercy Hospital, Catholic Mercy Medical Foundation"
+Jenny,Hsinchu County,"Catholic Mercy Hospital, Catholic Mercy Medical Foundation"
+James,Hsinchu County,Da An Hospital
+Jenny,Hsinchu County,Da An Hospital
+Kelly,Miaoli County,"Miaoli General Hospital, Ministry of Health and Welfare"
+Kate,Miaoli County,"Miaoli General Hospital, Ministry of Health and Welfare"
+Kelly,Miaoli County,Wei Gong Memorial Hospital
+Kate,Miaoli County,Wei Gong Memorial Hospital
+Kelly,Miaoli County,Lee General Hospital
+Kate,Miaoli County,Lee General Hospital
+Kelly,Miaoli County,Da Shuen Hospital
+Kate,Miaoli County,Da Shuen Hospital
+Kelly,Miaoli County,Chong Guang Hospital
+Kate,Miaoli County,Chong Guang Hospital
+Kelly,Miaoli County,Sheiho Hosipital
+Kate,Miaoli County,Sheiho Hosipital
+Kelly,Miaoli County,Tong Siao Kuang Tien Hospital
+Kate,Miaoli County,Tong Siao Kuang Tien Hospital
+Kelly,Miaoli County,Hope Doctors Hospital
+Kate,Miaoli County,Hope Doctors Hospital
+Alex,Taichung City,Daja Lee General Hospital
+Ada,Taichung City,Daja Lee General Hospital
+Alex,Taichung City,Jen-ai Hospital Dali Branch
+Ada,Taichung City,Jen-ai Hospital Dali Branch
+Alex,Taichung City,Cheng Ching General Hospital
+Ada,Taichung City,Cheng Ching General Hospital
+Alex,Taichung City,Taichung Armed Forces General Hospital
+Ada,Taichung City,Taichung Armed Forces General Hospital
+Alex,Taichung City,"Taichung Hospital,Ministry of Health and Welfare"
+Ada,Taichung City,"Taichung Hospital,Ministry of Health and Welfare"
+Alex,Taichung City,Lin Shin Hospital
+Ada,Taichung City,Lin Shin Hospital
+Alex,Taichung City,Wuri Lin Shin Hospital
+Ada,Taichung City,Wuri Lin Shin Hospital
+Alex,Taichung City,Taichung Tzu Chi Hosptial
+Ada,Taichung City,Taichung Tzu Chi Hosptial
+Alex,Taichung City,"Feng-Yuan Hospital, Ministry Of Health And Welfare"
+Ada,Taichung City,"Feng-Yuan Hospital, Ministry Of Health And Welfare"
+Alex,Taichung City,Asia University Hospital
+Ada,Taichung City,Asia University Hospital
+Alex,Taichung City,Taichung Armed Forces General Hospital Zhongqing Branch
+Ada,Taichung City,Taichung Armed Forces General Hospital Zhongqing Branch
+Alex,Taichung City,Ching-chyuan Hospital
+Ada,Taichung City,Ching-chyuan Hospital
+Matt,Nantou County,Taichung Veterans General Hospital Puli Branch
+Monica,Nantou County,Taichung Veterans General Hospital Puli Branch
+Matt,Nantou County,Yumin Hospital
+Monica,Nantou County,Yumin Hospital
+Matt,Nantou County,Nantou Christian Hospital
+Monica,Nantou County,Nantou Christian Hospital
+Matt,Nantou County,Puli Christian Hospital
+Monica,Nantou County,Puli Christian Hospital
+Matt,Nantou County,Chu Shang Show Chwan Hospital
+Monica,Nantou County,Chu Shang Show Chwan Hospital
+Nick,Changhua County,Erlin Christian Hospital
+Nina,Changhua County,Erlin Christian Hospital
+Nick,Changhua County,Yuanlin Christian Hospital
+Nina,Changhua County,Yuanlin Christian Hospital
+Nick,Changhua County,"Changhua Hospital,Ministry of Health and Welfare"
+Nina,Changhua County,"Changhua Hospital,Ministry of Health and Welfare"
+Nick,Changhua County,Lukang Christian Hopsital
+Nina,Changhua County,Lukang Christian Hopsital
+Nick,Changhua County,Cho Hospital
+Nina,Changhua County,Cho Hospital
+Nick,Changhua County,Farlin Hospital
+Nina,Changhua County,Farlin Hospital
+Nick,Changhua County,Yuan Sheng Hospital
+Nina,Changhua County,Yuan Sheng Hospital
+Nick,Changhua County,Huilai Medical Care System Hongren Hospital
+Nina,Changhua County,Huilai Medical Care System Hongren Hospital
+Paul,Yunlin County,National Cheng Kung University Hospital Dou-Liou Branch
+Penny,Yunlin County,National Cheng Kung University Hospital Dou-Liou Branch
+Paul,Yunlin County,China Medical University Beigang Hospital
+Penny,Yunlin County,China Medical University Beigang Hospital
+Paul,Yunlin County,Yunlin Christian Hospital
+Penny,Yunlin County,Yunlin Christian Hospital
+Paul,Yunlin County,St. Joseph's Hospital
+Penny,Yunlin County,St. Joseph's Hospital
+Paul,Yunlin County,Yunlin Chang Gung Memorial Hospital
+Penny,Yunlin County,Yunlin Chang Gung Memorial Hospital
+Paul,Yunlin County,National Taiwan University Hosipital Yunlin Branch. Hu-Wei Region
+Penny,Yunlin County,National Taiwan University Hosipital Yunlin Branch. Hu-Wei Region
+Ian,Chiayi City,Taichung Veterans General Hospital Chiayi Branch
+Ina,Chiayi City,Taichung Veterans General Hospital Chiayi Branch
+Ian,Chiayi City,St. Martin De Porres Hospital Da-Ya Branch
+Ina,Chiayi City,St. Martin De Porres Hospital Da-Ya Branch
+Ian,Chiayi City,"Chia-Yi Hospital, Ministry of Health and Welfare"
+Ina,Chiayi City,"Chia-Yi Hospital, Ministry of Health and Welfare"
+Quentin,Chiayi County,"Puzi Hospital, Ministry of Health and Welfare"
+Queena,Chiayi County,"Puzi Hospital, Ministry of Health and Welfare"
+Quentin,Chiayi County,Taichung Veterans General Hospital Wanqiao Branch
+Queena,Chiayi County,Taichung Veterans General Hospital Wanqiao Branch
+Carl,Tainan City,"Tainan Hospital, Ministry of Health and Welfare"
+Dale,Tainan City,"Tainan Hospital, Ministry of Health and Welfare"
+Carl,Tainan City,Liuying Chi Mei Medical Center
+Dale,Tainan City,Liuying Chi Mei Medical Center
+Carl,Tainan City,Tainan Sin-Lau Hospital
+Dale,Tainan City,Tainan Sin-Lau Hospital
+Carl,Tainan City,Madou Sin-Lau Hospital
+Dale,Tainan City,Madou Sin-Lau Hospital
+Carl,Tainan City,Jiali Chi Mei Medical Center
+Dale,Tainan City,Jiali Chi Mei Medical Center
+Carl,Tainan City,"Chest Hospital, Ministry of Health and Welfare"
+Dale,Tainan City,"Chest Hospital, Ministry of Health and Welfare"
+Carl,Tainan City,Kuo General Hospital
+Dale,Tainan City,Kuo General Hospital
+Carl,Tainan City,An Nan Hospital
+Dale,Tainan City,An Nan Hospital
+Carl,Tainan City,Tainan Municipal Hospital
+Dale,Tainan City,Tainan Municipal Hospital
+Carl,Tainan City,"Sinying Hospital, Ministry of Health and Welfare"
+Dale,Tainan City,"Sinying Hospital, Ministry of Health and Welfare"
+Carl,Tainan City,"Tainan Hospital Xinhua Branch, Ministry of Health and Welfare"
+Dale,Tainan City,"Tainan Hospital Xinhua Branch, Ministry of Health and Welfare"
+Carl,Tainan City,Kaohsiung Veterans General Hospital Tainan Branch
+Dale,Tainan City,Kaohsiung Veterans General Hospital Tainan Branch
+Daniel,Kaohsiung City,Kaohsiung Municipal Siaogang Hospital
+Eden,Kaohsiung City,Kaohsiung Municipal Siaogang Hospital
+Daniel,Kaohsiung City,Kaohsiung Armed Forces General Hospital Zuoying Branch
+Eden,Kaohsiung City,Kaohsiung Armed Forces General Hospital Zuoying Branch
+Daniel,Kaohsiung City,Yuan's General Hospita
+Eden,Kaohsiung City,Yuan's General Hospita
+Daniel,Kaohsiung City,Kaohsiung Municipal Min-Sheng Hospita
+Eden,Kaohsiung City,Kaohsiung Municipal Min-Sheng Hospita
+Daniel,Kaohsiung City,Kaohsiung Armed Forces General Hospital
+Eden,Kaohsiung City,Kaohsiung Armed Forces General Hospital
+Daniel,Kaohsiung City,Jiannren Hospital
+Eden,Kaohsiung City,Jiannren Hospital
+Daniel,Kaohsiung City,Kaohsiung Municipal United Hospital
+Eden,Kaohsiung City,Kaohsiung Municipal United Hospital
+Daniel,Kaohsiung City,"Cishan Hospital, Ministry of Health and Welfare"
+Eden,Kaohsiung City,"Cishan Hospital, Ministry of Health and Welfare"
+Daniel,Kaohsiung City,Kaohsiung Municipal Da-Tung Hospital
+Eden,Kaohsiung City,Kaohsiung Municipal Da-Tung Hospital
+Daniel,Kaohsiung City,Da-Dong Hospital
+Eden,Kaohsiung City,Da-Dong Hospital
+Daniel,Kaohsiung City,Chien-Yu Hospital
+Eden,Kaohsiung City,Chien-Yu Hospital
+Daniel,Kaohsiung City,St. Joseph Hospital
+Eden,Kaohsiung City,St. Joseph Hospital
+Daniel,Kaohsiung City,Kaohsiung Municipal Gangshan Hospital
+Eden,Kaohsiung City,Kaohsiung Municipal Gangshan Hospital
+Daniel,Kaohsiung City,Kaohsiung Municipal Feng-Shan Hospital
+Eden,Kaohsiung City,Kaohsiung Municipal Feng-Shan Hospital
+Daniel,Kaohsiung City,Kaohsiung Armed Forces General Hospital Gangshan Branch
+Eden,Kaohsiung City,Kaohsiung Armed Forces General Hospital Gangshan Branch
+Daniel,Kaohsiung City,E-DA cancer Hospital
+Eden,Kaohsiung City,E-DA cancer Hospital
+Daniel,Kaohsiung City,Kaohsiung Municipal CiJin Hospital
+Eden,Kaohsiung City,Kaohsiung Municipal CiJin Hospital
+Daniel,Kaohsiung City,Shing-Hou Hospital
+Eden,Kaohsiung City,Shing-Hou Hospital
+Daniel,Kaohsiung City,E-DA Dachang Hospital
+Eden,Kaohsiung City,E-DA Dachang Hospital
+Daniel,Kaohsiung City,Antai Communtiy Hosptial
+Eden,Kaohsiung City,Antai Communtiy Hosptial
+Regan,Pingtung County,Kaohsiung Veterans General Hospital Pingtung Branch
+Tina,Pingtung County,Kaohsiung Veterans General Hospital Pingtung Branch
+Regan,Pingtung County,"Pingtung Hospital, Ministry of Health and Welfare"
+Tina,Pingtung County,"Pingtung Hospital, Ministry of Health and Welfare"
+Regan,Pingtung County,Fooyin University Hospital
+Tina,Pingtung County,Fooyin University Hospital
+Regan,Pingtung County,Fangliao General Hospital
+Tina,Pingtung County,Fangliao General Hospital
+Regan,Pingtung County,Pingtung Christian Hospital
+Tina,Pingtung County,Pingtung Christian Hospital
+Regan,Pingtung County,Golden Hospital
+Tina,Pingtung County,Golden Hospital
+Regan,Pingtung County,Kaohsiung Armed Forces General Hospital Pingtung Branch
+Tina,Pingtung County,Kaohsiung Armed Forces General Hospital Pingtung Branch
+Regan,Pingtung County,Paochien Hospital
+Tina,Pingtung County,Paochien Hospital
+Regan,Pingtung County,Heng Chun Christian Hospital
+Tina,Pingtung County,Heng Chun Christian Hospital
+Regan,Pingtung County,"Hengchun Tourism Hospital, Ministry of Health and Welfare"
+Tina,Pingtung County,"Hengchun Tourism Hospital, Ministry of Health and Welfare"
+Regan,Pingtung County,Daxin Hospital
+Tina,Pingtung County,Daxin Hospital
+Regan,Pingtung County,Antai Medical Care Cooperation Chaozhou Antai Hospital
+Tina,Pingtung County,Antai Medical Care Cooperation Chaozhou Antai Hospital
+Regan,Pingtung County,Nan Men Hospital
+Tina,Pingtung County,Nan Men Hospital
+Yale,Penghu County,Qimei Township Health Center
+Yedda,Penghu County,Qimei Township Health Center
+Yale,Penghu County,Jibei Health Center
+Yedda,Penghu County,Jibei Health Center
+Yale,Penghu County,Niaoyu Health Center
+Yedda,Penghu County,Niaoyu Health Center
+Yale,Penghu County,"Penghu Hospital, Ministry of Health and Welfare"
+Yedda,Penghu County,"Penghu Hospital, Ministry of Health and Welfare"
+Yale,Penghu County,Jiangjun Health Center
+Yedda,Penghu County,Jiangjun Health Center
+Yale,Penghu County,Huayu Health Room
+Yedda,Penghu County,Huayu Health Room
+Yale,Penghu County,Wangan Township Health Center
+Yedda,Penghu County,Wangan Township Health Center
+Tyler,Hualien County,Taipei Veterans General Hospital Fenglin Branch
+Ula,Hualien County,Taipei Veterans General Hospital Fenglin Branch
+Tyler,Hualien County,"Hualien Hospital Fengbin Aboriginal Branch, Ministry of Health and Welfare"
+Ula,Hualien County,"Hualien Hospital Fengbin Aboriginal Branch, Ministry of Health and Welfare"
+Tyler,Hualien County,Hualien Armed Forces General Hospital
+Ula,Hualien County,Hualien Armed Forces General Hospital
+Tyler,Hualien County,Mennonite Christian Hospital
+Ula,Hualien County,Mennonite Christian Hospital
+Tyler,Hualien County,Taipei Veterans General Hospital Yuli Branch
+Ula,Hualien County,Taipei Veterans General Hospital Yuli Branch
+Tyler,Hualien County,"Hualien Hospital, Ministry of Health and Welfare"
+Ula,Hualien County,"Hualien Hospital, Ministry of Health and Welfare"
+Tyler,Hualien County,"Buddhist Tzu Chi Medical Foundation Yuli Tzu Chi Hospital "
+Ula,Hualien County,"Buddhist Tzu Chi Medical Foundation Yuli Tzu Chi Hospital "
+Victor,Taitung County,"Taitung Hospital Chenggong Branch, Ministry of Health and Welfare"
+Vicky,Taitung County,"Taitung Hospital Chenggong Branch, Ministry of Health and Welfare"
+Victor,Taitung County,Taipei Veterans General Hospital Taitung Branch
+Vicky,Taitung County,Taipei Veterans General Hospital Taitung Branch
+Victor,Taitung County,Buddhist Tzu Chi Medical Foundation Kuanshan Tzu Chi Hospital
+Vicky,Taitung County,Buddhist Tzu Chi Medical Foundation Kuanshan Tzu Chi Hospital
+Victor,Taitung County,"Taitung Christian Medical Foundation, Taitung Christian Hospital"
+Vicky,Taitung County,"Taitung Christian Medical Foundation, Taitung Christian Hospital"
+Victor,Taitung County,"Taitung Hospital, Ministry of Health and Welfare"
+Vicky,Taitung County,"Taitung Hospital, Ministry of Health and Welfare"
+Victor,Taitung County,Catholic Hualien Diocese Medical Foundation Taitung St. Mary' s Hospital
+Vicky,Taitung County,Catholic Hualien Diocese Medical Foundation Taitung St. Mary' s Hospital
+York,Lienchiang County,Lienchiang County Hospital
+Zara,Lienchiang County,Lienchiang County Hospital
+York,Lienchiang County,Bei-Gan Health Center
+Zara,Lienchiang County,Bei-Gan Health Center
+York,Lienchiang County,Dong-In Health Center
+Zara,Lienchiang County,Dong-In Health Center
+York,Lienchiang County,Hsichu Health Center
+Zara,Lienchiang County,Hsichu Health Center
+York,Lienchiang County,Juguang Health Center
+Zara,Lienchiang County,Juguang Health Center
+Carl,Tainan City,"Chest hospital Datong Branch, Health and Welfare Ministry"
+Dale,Tainan City,"Chest hospital Datong Branch, Health and Welfare Ministry"
+Victor,Taitung County,Ludao Township Health Center
+Vicky,Taitung County,Ludao Township Health Center
+Victor,Taitung County,Lanyu Township Health Center
+Vicky,Taitung County,Lanyu Township Health Center
+Wayne,Kinmen County,"Kinmen Hospital Lieyu Branch, Ministry of Health and Welfare"
+Wendy,Kinmen County,"Kinmen Hospital Lieyu Branch, Ministry of Health and Welfare"
